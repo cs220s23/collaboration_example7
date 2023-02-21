@@ -7,3 +7,9 @@ Names
 -----
 Zachery Bingaman
 Jesse Russo
+
+
+UserNames
+---------
+ZingBing
+JesseJRusso
